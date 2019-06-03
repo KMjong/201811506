@@ -47,9 +47,10 @@ while문을 이용하여 break
 [데이터보기](https://www.data.go.kr/dataset/fileDownload.do?atchFileId=FILE_000000001501175&fileDetailSn=1 )
 
 ## 소스
-* [링크로 소스 내용 보기](https://github.com/cybermin/python2019/blob/master/tes.py) 
+* [링크로 소스 내용 보기](https://github.com/KMjong/201811506/blob/master/finalassignment) 
 
 * 코드 삽입
+
 import pandas as pd
 
 data = pd.read_csv('data2.csv')  # 읽어들이기
