@@ -84,8 +84,6 @@ df_mon_12 = mon_12.groupby(['역명', '구분'], as_index=False).mean()
 
 
 
-# print(df_mon_1)
-
 # 리스트로 구현하기
 monlist_1 = df_mon_1.values.tolist()
 monlist_2 = df_mon_2.values.tolist()
