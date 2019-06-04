@@ -145,8 +145,8 @@ year=[monlist_1, monlist_2 ,monlist_3,monlist_4,monlist_5,monlist_6,monlist_7,mo
 
 
 while True:
-    month = int(input("몇 월?(정수로 입력하시오.) 검색을 멈추려면 0을 입력하시오. "))
 
+    month = int(input("몇 월?(정수로 입력하시오.) 검색을 멈추려면 0을 입력하시오. "))
     if month == 0:
         print("시스템을 종료합니다.")
         break
