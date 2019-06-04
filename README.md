@@ -50,7 +50,7 @@ while문을 이용하여 break
 
 
 ## 사용한 공공데이터 
-[데이터는 옆의 ] https://www.data.go.kr/dataset/fileDownload.do?atchFileId=FILE_000000001501175&fileDetailSn=1  
+[데이터는 옆에] https://www.data.go.kr/dataset/3057229/fileData.do
 
 ## 소스
 * [링크로 소스 내용 보기](https://github.com/KMjong/201811506/blob/master/finalassignment) 
